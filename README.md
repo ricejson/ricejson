@@ -6,6 +6,10 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22);Hello World!&center=true&size=27" />
     </a>
   </div>
+
+  <picture>
+    <img src="http://129.211.6.176/assets/coder.png" width=75%/>
+  </picture>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -15,5 +19,7 @@
   </picture>
 
   <!-- LeetCode 热力图显示 -->
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/ricejson?theme=light&font=ABeeZee&ext=heatmap&site=cn)
+  <picture>
+    <img src="https://leetcard.jacoblin.cool/ricejson?theme=light&font=ABeeZee&ext=heatmap&site=cn" width=75%/>
+  </picture>
 </div>
